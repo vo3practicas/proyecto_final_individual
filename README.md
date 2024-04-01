@@ -25,8 +25,8 @@ El objetivo de este proyecto es construir una aplicación web de consultas sobre
     - Diseña la interfaz de usuario utilizando HTML, CSS y JavaScript. Puedes usar bibliotecas como React.js o Vue.js si prefieres un enfoque de desarrollo basado en componentes y consideras que lo puedes manejar con confianza, de otra manera se aconseja aplicar lo aprendido en clase y consultar cada vez que se tenga dudas o inconvenientes, evite la frustración y el estancamiento, somos comunidad y estamos para ayudarnos y darnos soporte.
 
 5. **Estilos Personalizados**
-    - Utiliza CSS o preprocesadores CSS como Sass o Less para crear estilos personalizados para tu aplicación.
-    - Considera el uso de bibliotecas de estilos como Bootstrap, Materialize CSS o Tailwind CSS si deseas acelerar el proceso de diseño y desarrollo.
+    - Puedes utilizar CSS puro o preprocesadores CSS como Sass o Less para crear estilos personalizados para tu aplicación.
+    - Se permite el uso de bibliotecas de estilos como Bootstrap, Materialize CSS o Tailwind CSS si deseas acelerar el proceso de diseño y desarrollo si lo consideras apropiado y te sientes en capacidad de hacerlo.
 
 6. **Manejo de Errores y Validación de Datos**
     - Implementa la lógica necesaria para manejar errores de API, como solicitudes fallidas o datos no disponibles.
