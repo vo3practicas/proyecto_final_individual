@@ -49,4 +49,9 @@ El objetivo de este proyecto es construir una aplicación web de consultas sobre
 - Consulta la documentación oficial de The Movie Database (TMDb) para obtener más detalles sobre cómo usar su API: [Documentación de TMDb](https://developer.themoviedb.org/reference/intro/getting-started)
 - Explora tutoriales y recursos en línea sobre desarrollo web frontend, JavaScript, HTML y CSS para mejorar tus habilidades y obtener inspiración para tu proyecto.
 
+#### Clausula final
+- Se permite el uso de librerías, entornos de desarrollo y generadores de código, pero se recomienda entender la lógica aplicada pues al final de debe presentar y defender el proyecto explicando cada paso, reto y solución aplicada al desarrollo del mismo.
+- Se puede copiar código, consultar comunidades, blogs, otros alumnos, profesor, pero siempre con la ética de ser consciente de que si no se entiende lo que se hizo, puede tener consecuencias irreversibles en la aprobación del mismo, en una empresa sos el único responsable de lo que haces o dejas de hacer.
+- Este proyecto quedará disponible al público para ser usado como parte de tu portafolio, da tu mejor esfuerzo y recuerda, estamos iniciando, siempre se puede mejorar, nunca lo sabremos todo, una buena actitud y disposición te abrírá caminos y te brindará la correcta orientación al crecimiento.
+
 Con estos pasos y requisitos, estarás listo para desarrollar tu proyecto final de consultas de películas con la API de The Movie Database. ¡Buena suerte en tu desarrollo!
