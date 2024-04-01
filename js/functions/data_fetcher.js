@@ -37,4 +37,7 @@ export default class DataFetcher {
         
         return this.#Data;
     }
+
+    // QUERYS
+    // https://developer.themoviedb.org/reference/collection-images
 }
