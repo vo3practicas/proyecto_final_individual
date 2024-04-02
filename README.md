@@ -1,7 +1,7 @@
 # VO3 Prácticas - Proyecto Individual
 
 #### Descripción del Proyecto
-El objetivo de este proyecto es construir una aplicación web de consultas sobre películas utilizando la API de The Movie Database (TMDb). La aplicación permitirá a los usuarios buscar películas en tiempo real y filtrar los resultados por año, calificación, tópico o categoría. Además, se debe implementar el manejo de errores y la validación de datos para mejorar la experiencia del usuario.
+El objetivo de este proyecto es construir una aplicación web de consultas sobre películas utilizando la API de The Open Movie Database (OMDb). La aplicación permitirá a los usuarios buscar películas en tiempo real y filtrar los resultados por año, calificación, tópico o categoría. Además, se debe implementar el manejo de errores y la validación de datos para mejorar la experiencia del usuario.
 
 #### Pasos para la Implementación
 1. **Instala el repositorio**
@@ -20,7 +20,7 @@ El objetivo de este proyecto es construir una aplicación web de consultas sobre
 
 4. **Desarrollo de la Aplicación**
     - Crea la estructura básica de archivos y carpetas para tu proyecto. Puedes seguir la arquitectura del proyecto que más te guste, recuerda usar nombres estándares y en inglés (con carpetas como `functions`, `components`, `assets`, etc.).
-    - Implementa la funcionalidad de búsqueda en tiempo real utilizando la API de TMDb. Puedes utilizar herramientas como Axios o Fetch para realizar solicitudes HTTP.
+    - Implementa la funcionalidad de búsqueda en tiempo real utilizando la API de OMDb. Puedes utilizar herramientas como Axios o Fetch para realizar solicitudes HTTP.
     - Desarrolla la funcionalidad de filtrado por año, calificación, tópico o categoría.
     - Diseña la interfaz de usuario utilizando HTML, CSS y JavaScript. Puedes usar bibliotecas como React.js o Vue.js si prefieres un enfoque de desarrollo basado en componentes y consideras que lo puedes manejar con confianza, de otra manera se aconseja aplicar lo aprendido en clase y consultar cada vez que se tenga dudas o inconvenientes, evite la frustración y el estancamiento, somos comunidad y estamos para ayudarnos y darnos soporte.
 
@@ -47,7 +47,7 @@ El objetivo de este proyecto es construir una aplicación web de consultas sobre
     - La web será desplegada en `https://vo3practicas.github.io/proyecto_final_individual/`+`nombre-apellido/`.
 
 #### Recursos Adicionales
-- Consulta la documentación oficial de The Movie Database (TMDb) para obtener más detalles sobre cómo usar su API: [Documentación de TMDb](https://developer.themoviedb.org/reference/intro/getting-started)
+- Consulta la documentación oficial de The Open Movie Database (OMDb) para obtener más detalles sobre cómo usar su API: [Documentación de OMDb](https://www.omdbapi.com/)
 - Explora tutoriales y recursos en línea sobre desarrollo web frontend, JavaScript, HTML y CSS para mejorar tus habilidades y obtener inspiración para tu proyecto.
 
 #### Clausula final
@@ -55,4 +55,4 @@ El objetivo de este proyecto es construir una aplicación web de consultas sobre
 - Se puede copiar código, consultar comunidades, blogs, otros alumnos, profesor, pero siempre con la ética de ser consciente de que si no se entiende lo que se hizo, puede tener consecuencias irreversibles en la aprobación del mismo, en una empresa sos el único responsable de lo que haces o dejas de hacer.
 - Este proyecto quedará disponible al público para ser usado como parte de tu portafolio, da tu mejor esfuerzo y recuerda, estamos iniciando, siempre se puede mejorar, nunca lo sabremos todo, una buena actitud y disposición te abrírá caminos y te brindará la correcta orientación al crecimiento.
 
-Con estos pasos y requisitos, estarás listo para desarrollar tu proyecto final de consultas de películas con la API de The Movie Database. ¡Buena suerte en tu desarrollo!
+Con estos pasos y requisitos, estarás listo para desarrollar tu proyecto final de consultas de películas con la API de The Open Movie Database. ¡Buena suerte en tu desarrollo!
