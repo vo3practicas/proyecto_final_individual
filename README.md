@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README.md
 # VO3 Prácticas - Proyecto Individual
 
 #### Descripción del Proyecto
