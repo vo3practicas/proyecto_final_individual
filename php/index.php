@@ -7,7 +7,7 @@ if(isset($_POST['create_folder']) && !empty($_POST['create_folder'])) {
 
     
     // Validar y filtrar el nombre de la rama (esto es solo un ejemplo, deberías aplicar validación adecuada)
-    $create_folder = preg_replace('/[^a-zA-Z0-9_-]/', "", $create_folder);
+    // $create_folder = preg_replace('/[^a-zA-Z0-9_-]/', "", $create_folder);
 
     // Verifica si la carpeta no existe ya
     if(!file_exists($create_folder)) {
@@ -18,15 +18,16 @@ if(isset($_POST['create_folder']) && !empty($_POST['create_folder'])) {
             $git_command = "git branch $create_folder";
 
             // Ejecutar el comando
-            $resultado = exec($git_command, $output, $status);
+            // $resultado = exec($git_command, $output, $status);
 
-            // Verificar si el comando se ejecutó correctamente
-            if ($status === 0) {
-                echo "La rama $create_folder ha sido creada correctamente.";
-            } else {
-                echo "Hubo un error al crear la rama $create_folder.";
-            }
+            // // Verificar si el comando se ejecutó correctamente
+            // if ($status === 0) {
+            //     echo "La rama $create_folder ha sido creada correctamente.";
+            // } else {
+            //     echo "Hubo un error al crear la rama $create_folder.";
+            // }
             
+            echo "Carpeta creada exitosamente";
         } else {
             echo "Error al crear la carpeta";
         }
