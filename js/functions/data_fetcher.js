@@ -63,7 +63,6 @@ export default class DataFetcher {
         await fetch(`${this.setUrl()}`, this.setOptions())
             .then(response => response.json())
             .then(response => {
-                console.log(response)
                 this.#Data = response;
             })
             .catch(err => console.error(err));
