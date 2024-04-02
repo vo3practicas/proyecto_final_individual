@@ -6,10 +6,10 @@ El objetivo de este proyecto es construir una aplicación web de consultas sobre
 #### Pasos para la Implementación
 1. **Instala el repositorio**
     - Crea una carpeta donde vayas a guardar el reporitorio usando el nombre de `Proyecto Final Individual`.
-    - [Descargar Repositorio](https://github.com/vo3practicas/proyecto_final_individual.git) usando el comando `git clon https://github.com/vo3practicas/proyecto_final_individual.git`.
+    - [Descargar Repositorio](https://github.com/vo3practicas/proyecto_final_individual.git) usando el comando `git clone https://github.com/vo3practicas/proyecto_final_individual.git`.
     - Abre la carpeta del repositorio es tu editor de código, abre la términal y asegurate de ubicarte en la misma ruta del Repo.
-    - Crea una Branch (Rama) con tu nombre y apellido usando guiones de separación, sin acentos y en minúsculas, ej: juan-mecanico. Usa el comando `git branch juan-mecanico`.
-    - Ahora debes seleccionar la Branch usando el siguiente código para trabajar en ella: `git checkout -b juan-mecanico`.
+    - Crea una Branch (Rama) con tu nombre y apellido usando guiones de separación, sin acentos y en minúsculas, ej: juan-mecanico. Usa el comando `git branch "juan-mecanico"`.
+    - Ahora debes seleccionar la Branch usando el siguiente código para trabajar en ella: `git checkout -b "juan-mecanico"`.
 
 2. **Registro en The Movie Database (TMDb)**
     - Regístrate en la plataforma de desarrolladores de TMDb para obtener una clave de API. Puedes registrarte en [TMDb Developer](https://www.themoviedb.org/documentation/api) y obtener tu clave de API.
@@ -44,6 +44,7 @@ El objetivo de este proyecto es construir una aplicación web de consultas sobre
     - Documenta tu código, incluyendo comentarios descriptivos y una guía de instalación y uso para futuros desarrolladores.
     - Prepara una versión de producción de tu aplicación y despliégala en un servidor web o una plataforma de alojamiento en la nube.
     - Entrega tu proyecto finalizado según las especificaciones del curso o los requisitos del cliente.
+    - La web será desplegada en `https://vo3practicas.github.io/proyecto_final_individual/`+`nombre-apellido/`.
 
 #### Recursos Adicionales
 - Consulta la documentación oficial de The Movie Database (TMDb) para obtener más detalles sobre cómo usar su API: [Documentación de TMDb](https://developer.themoviedb.org/reference/intro/getting-started)
