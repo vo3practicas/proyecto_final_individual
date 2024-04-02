@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (data && data.Title) {
             content.innerHTML = `
-                <span>${data.imdbID}</span><br>
+                <span><b>imdbID:</b> ${data.imdbID}</span><br>
                 <span><b>Titulo:</b> ${data.Title}</span><br>
                 <span><b>Año:</b> ${data.Year}</span><br>
             `;
